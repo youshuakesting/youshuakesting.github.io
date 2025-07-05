@@ -2,7 +2,8 @@
 Hi, I am Youshua. I am doing my PhD at University Paris 8 under the supervision of [Stefano Morra](https://www.math.univ-paris13.fr/~morra/),
 [Johannes Anschütz](https://janschuetz.perso.math.cnrs.fr) and [Arthur-César Le Bras](https://lebras.perso.math.cnrs.fr). 
 Currently I am interested in p-adic Langlands, using tools from the theory of analytic stacks. 
-Recently I thought a bit about categorical Künneth formulas for 6-functor formalisms: [Categorical Künneth formulas for analytic stacks](Categorical_Kunneth_formulas_for_analytic_stacks.pdf) 
+
+Recently I thought a bit about categorical Künneth formulas for general 6-functor formalisms: [Categorical Künneth formulas for analytic stacks](Categorical_Kunneth_formulas_for_analytic_stacks.pdf) (pre-Arxivversion)
 
 
 
