@@ -5,6 +5,8 @@ Currently I am interested in using the theory of analytic stacks to study object
 
 Recently I thought a bit about categorical Künneth formulas for general 6-functor formalisms: [Categorical Künneth formulas for analytic stacks](Categorical_Kunneth_formulas_for_analytic_stacks.pdf) (pre-Arxivversion)
 
+you can write me via y@x, y=youshua.kesting , x=gmail.com
+
 
 
 
