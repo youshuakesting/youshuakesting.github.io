@@ -2,7 +2,7 @@ title: Youshua Kesting
 author: Youshua Kesting
 
 show_excerpts: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 
 github:
   is_project_page: false
